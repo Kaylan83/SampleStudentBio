@@ -1,0 +1,52 @@
+/* this is to style the header */
+.hText{
+font-size: 50;
+text-align: center;
+color: white;
+background-color: black;
+}
+
+/* stying the picture */
+img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    /* stying the name */
+    .name{
+        text-align: center;
+        font-size: xx-large;
+    }
+
+    /* changing the background color */
+    body{
+        background-color: rgb(14, 52, 63);
+    }
+
+    /* class to style the text */
+    .text {
+        color: yellow;
+        font-size: 17px;
+    }
+
+    /* stying the h2 headers */
+    h2{
+        color:white;
+    }
+
+    /* aligning the video to the right */
+    .right{
+        position: absolute;
+        right: 100px;
+        border: 3px solid #73AD21;
+    }
+
+    /* aligning the video title to the right */
+    .hright{
+        position: absolute;
+        right: 520px;
+        border: 3px solid #73AD21;
+    }
